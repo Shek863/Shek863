@@ -4,8 +4,8 @@ Mobile Engineer. ⚡️
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='github' height='18'>](https://twitter.com/Shek-draw)  
 
-![](https://github.com/sethgnavo/github-stats/blob/master/generated/overview.svg)
-![](https://github.com/sethgnavo/github-stats/blob/master/generated/languages.svg)
+![](https://github.com/Shek863/github-stats/blob/master/generated/overview.svg)
+![](https://github.com/Shek863/github-stats/blob/master/generated/languages.svg)
 
 <!--
 **sethgnavo/sethgnavo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
