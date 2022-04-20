@@ -3,7 +3,7 @@
 Mobile Developer . ⚡️ 
 
 - 📫 Contact me: ...
-     [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='github' height='18' background-color: #FFF>](https://twitter.com/Shek_draw) @Shek_draw
+     [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='github' height='18' color: #FFF>](https://twitter.com/Shek_draw) @Shek_draw
      [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='github' height='18'>](https://www.linkedin.com/in/shek368/) Shègun MONTCHO
 
 
