@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Shègun ![](https://pbs.twimg.com/profile_banners/860357608552763393/1593430830/1500x500)
 
-Mobile Engineer. ⚡️ 
+Mobile Developer . ⚡️ 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='github' height='18'>](https://twitter.com/Shek-draw)  
 
