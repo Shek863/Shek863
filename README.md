@@ -1,11 +1,11 @@
 [![Image of https://github.com/Shek863/eagle_eyes](https://github.com/Shek863/eagle_eyes/blob/master/svg/profile/badge.svg)](https://github.com/Shek863/eagle_eyes)
 
-### Hi there 👋, I'm Shègun !
+# Hi there 👋, I'm Shègun !
 
 Mobile Developer . ⚡️ 
 
 - 📫 Contact me: shegunmontcho@gmail.com
-- [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='github' height='18'>](https://www.linkedin.com/in/shek368/) Shègun MONTCHO
+- [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='github' height='18'>](https://www.linkedin.com/in/say-segun/) Shègun MONTCHO
 
 
 ## Stats
