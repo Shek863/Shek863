@@ -1,11 +1,14 @@
 [![Image of https://github.com/Shek863/eagle_eyes](https://github.com/Shek863/eagle_eyes/blob/master/svg/profile/badge.svg)](https://github.com/Shek863/eagle_eyes)
+[![GitHub Followers](https://img.shields.io/github/followers/Shek863?label=Follow&style=social)](https://github.com/Shek863)
 
 # Hi there 👋, I'm Shègun !
 
 Mobile Developer . ⚡️ 
 
-- 📫 Contact me: shegunmontcho@gmail.com
-- [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='github' height='18'>](https://www.linkedin.com/in/say-segun/) Shègun MONTCHO
+- 📫 Contact me: 
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/say-segun/)
+[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:shekmontcho@gmail.com)
+[![WhatsApp](https://img.shields.io/badge/-WhatsApp-25D366?style=flat&logo=WhatsApp&logoColor=white)](https://wa.me/22961877882)
 
 
 ## Stats
